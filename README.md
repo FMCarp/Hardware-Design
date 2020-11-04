@@ -20,6 +20,8 @@
 
 ![HU SensorsBoard](https://user-images.githubusercontent.com/29917546/98167363-9f177b80-1ef1-11eb-987d-d61f22dc5984.JPG)
 
+![Squid V1](https://user-images.githubusercontent.com/29917546/98170193-3bdc1800-1ef6-11eb-9265-628e057d0e94.jpg)
+
 ![IMG_1046](https://user-images.githubusercontent.com/29917546/98167391-a9d21080-1ef1-11eb-8678-70a7fe07bb3d.JPG)
 
 ![IMG_1065](https://user-images.githubusercontent.com/29917546/98167412-b5253c00-1ef1-11eb-9fd0-60d9a31ba5d2.JPG)
