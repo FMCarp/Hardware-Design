@@ -1,3 +1,3 @@
-### Hardware-Design
-# Some of my hardware design projects.
+# Hardware-Design
+### Some of my hardware design projects.
 
