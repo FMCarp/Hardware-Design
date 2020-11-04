@@ -9,7 +9,7 @@
 Wi-Fi Sensors Telemetry
 ![NTC](https://user-images.githubusercontent.com/29917546/98164859-96bd4180-1eed-11eb-97ad-9fcca252d241.jpg)
 
-UHF RFID Controller
+UHF RFID & Mechatronic Controller
 ![RPDT V2 PCB TOP](https://user-images.githubusercontent.com/29917546/98164900-ab013e80-1eed-11eb-9561-cbb90ddc38bb.jpg)
 
 Access Controller
@@ -33,8 +33,10 @@ Current Measuring Board
 Raspberry Pi Hat
 ![Squid V1](https://user-images.githubusercontent.com/29917546/98170193-3bdc1800-1ef6-11eb-9265-628e057d0e94.jpg)
 
+Wi-Fi & Bluetooth PWM Controller
 ![IMG_1046](https://user-images.githubusercontent.com/29917546/98167391-a9d21080-1ef1-11eb-8678-70a7fe07bb3d.JPG)
 
+Industrial Ethernet Board
 ![IMG_1065](https://user-images.githubusercontent.com/29917546/98167412-b5253c00-1ef1-11eb-9fd0-60d9a31ba5d2.JPG)
 
 Access Controller
