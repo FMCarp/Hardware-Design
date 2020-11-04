@@ -16,6 +16,8 @@
 
 ![IMG_1053](https://user-images.githubusercontent.com/29917546/98167336-93c45000-1ef1-11eb-92ed-ac236bd6269d.JPG)
 
+![AQ_DevB 1](https://user-images.githubusercontent.com/29917546/98171199-06382e80-1ef8-11eb-961c-d3a0e3b85d38.jpg)
+
 ![20180516_151943](https://user-images.githubusercontent.com/29917546/98167347-9757d700-1ef1-11eb-91ee-3b07d25867ca.jpg)
 
 ![HU SensorsBoard](https://user-images.githubusercontent.com/29917546/98167363-9f177b80-1ef1-11eb-987d-d61f22dc5984.JPG)
