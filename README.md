@@ -6,14 +6,19 @@
 ##
 ##
 
+Wi-Fi Sensors Telemetry
 ![NTC](https://user-images.githubusercontent.com/29917546/98164859-96bd4180-1eed-11eb-97ad-9fcca252d241.jpg)
 
+RFID Controller
 ![RPDT V2 PCB TOP](https://user-images.githubusercontent.com/29917546/98164900-ab013e80-1eed-11eb-9561-cbb90ddc38bb.jpg)
 
+Access Controller
 ![MDZ-V1-3](https://user-images.githubusercontent.com/29917546/98164822-87d68f00-1eed-11eb-80ec-f88851a3cbd0.JPG)
 
+Development Mainboard
 ![IMG_1057](https://user-images.githubusercontent.com/29917546/98167317-8c9d4200-1ef1-11eb-9db7-d08dc58e7095.JPG)
 
+Air Quality Sensors
 ![AQ_DevB 1](https://user-images.githubusercontent.com/29917546/98171199-06382e80-1ef8-11eb-961c-d3a0e3b85d38.jpg)
 
 ![IMG_1053](https://user-images.githubusercontent.com/29917546/98167336-93c45000-1ef1-11eb-92ed-ac236bd6269d.JPG)
