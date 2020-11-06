@@ -1,6 +1,6 @@
 # Hardware PCB Portfolio
+#### Some of my hardware design projects. 
 
-## Some of my hardware design projects. 
 ### All the PCBs are designed by me and all the boards were manually assembled using soldering station and hot air tool.
 ### I also created firmware (C, C++, ASM) for most of these boards, as they contain programmable microcontrollers (MCU).
 ##
