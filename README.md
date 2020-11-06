@@ -1,10 +1,11 @@
-# Hardware PCB Portfolio
-#### Some of my hardware design projects. 
+# Hardware PCB **Portfolio**
 
-### All the PCBs are designed by me and all the boards were manually assembled using soldering station and hot air tool.
-### I also created firmware (C, C++, ASM) for most of these boards, as they contain programmable microcontrollers (MCU).
-##
-##
+Some of my hardware design projects <br />
+All the PCBs are designed by me and the boards were manually assembled using soldering station and hot air tool.<br />
+I also created firmware (C, C++, ASM) for most of these boards, as they contain programmable microcontrollers (MCU).
+
+#
+#
 
 Wi-Fi Sensors Telemetry
 ![NTC](https://user-images.githubusercontent.com/29917546/98164859-96bd4180-1eed-11eb-97ad-9fcca252d241.jpg)
