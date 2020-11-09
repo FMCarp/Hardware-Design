@@ -13,8 +13,11 @@ UHF RFID & Mechatronics Controller
 Wi-Fi Sensors Telemetry
 ![NTC](https://user-images.githubusercontent.com/29917546/98164859-96bd4180-1eed-11eb-97ad-9fcca252d241.jpg)
 
-Access Controller
+Access Controller with PoE (V1)
 ![MDZ-V1-3](https://user-images.githubusercontent.com/29917546/98164822-87d68f00-1eed-11eb-80ec-f88851a3cbd0.JPG)
+
+Access Controller with PoE (V2)
+![MDZ-V20](https://user-images.githubusercontent.com/29917546/98167448-c110fe00-1ef1-11eb-88fb-0cf2258d3d03.JPG)
 
 Industrial Controller
 ![IMG_1057](https://user-images.githubusercontent.com/29917546/98167317-8c9d4200-1ef1-11eb-9db7-d08dc58e7095.JPG)
@@ -39,8 +42,5 @@ Wi-Fi & Bluetooth PWM Controller
 
 Industrial Ethernet Board
 ![IMG_1065](https://user-images.githubusercontent.com/29917546/98167412-b5253c00-1ef1-11eb-9fd0-60d9a31ba5d2.JPG)
-
-Access Controller
-![MDZ-V20](https://user-images.githubusercontent.com/29917546/98167448-c110fe00-1ef1-11eb-88fb-0cf2258d3d03.JPG)
 
 
