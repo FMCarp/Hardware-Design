@@ -1,7 +1,7 @@
 # Hardware PCB **Portfolio**
 
 Some of my hardware design projects <br />
-All the PCBs are designed by me and the boards were manually assembled using soldering station and hot air tool.<br />
+All the boards are designed by me (schematics + PCBs) and manually assembled using soldering stations and hot air tools.<br />
 I also created firmware (C, C++, ASM) for most of these boards, as they contain programmable microcontrollers (MCU).
 
 #
