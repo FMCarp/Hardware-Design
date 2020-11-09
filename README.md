@@ -22,7 +22,7 @@ Access Controller with PoE (V2)
 Industrial Controller
 ![IMG_1057](https://user-images.githubusercontent.com/29917546/98167317-8c9d4200-1ef1-11eb-9db7-d08dc58e7095.JPG)
 
-Air Quality Sensors
+Air Quality Sensors with Wi-Fi and LoRa
 ![AQ_DevB 1](https://user-images.githubusercontent.com/29917546/98171199-06382e80-1ef8-11eb-961c-d3a0e3b85d38.jpg)
 
 Development Mainboard
