@@ -35,7 +35,7 @@ Current Measuring Board
 ![HU SensorsBoard](https://user-images.githubusercontent.com/29917546/98167363-9f177b80-1ef1-11eb-987d-d61f22dc5984.JPG)
 
 Raspberry Pi Hat
-![Squid V1](https://user-images.githubusercontent.com/29917546/98170193-3bdc1800-1ef6-11eb-9265-628e057d0e94.jpg)
+![Squid V1](https://user-images.githubusercontent.com/29917546/98601269-76bfc080-22e7-11eb-83bc-6839af406a2a.jpg)
 
 Wi-Fi & Bluetooth PWM Controller
 ![IMG_1046](https://user-images.githubusercontent.com/29917546/98167391-a9d21080-1ef1-11eb-8678-70a7fe07bb3d.JPG)
