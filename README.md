@@ -1,7 +1,7 @@
 # Hardware PCB **Portfolio**
 
 Some of my hardware design projects <br />
-All the boards are designed by me (schematics + PCBs) and manually assembled using soldering stations and hot air tools.<br />
+All the boards are designed by me (schematics + PCB layout) and manually assembled using soldering stations and hot air tools.<br />
 I also created firmware (C, C++, ASM) for most of these boards, as they contain programmable microcontrollers (MCU).
 
 #
@@ -31,7 +31,7 @@ Development Mainboard
 UHF RFID Controller
 ![20180516_151943](https://user-images.githubusercontent.com/29917546/98167347-9757d700-1ef1-11eb-91ee-3b07d25867ca.jpg)
 
-Current Measuring Board
+Sensors Interface Board
 ![HU SensorsBoard](https://user-images.githubusercontent.com/29917546/98167363-9f177b80-1ef1-11eb-987d-d61f22dc5984.JPG)
 
 Raspberry Pi Hat
