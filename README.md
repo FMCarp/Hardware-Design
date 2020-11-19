@@ -34,7 +34,7 @@ UHF RFID Controller
 Sensors Interface Board
 ![HU SensorsBoard](https://user-images.githubusercontent.com/29917546/98167363-9f177b80-1ef1-11eb-987d-d61f22dc5984.JPG)
 
-Raspberry Pi Hat
+Raspberry Pi Hat with TPM
 ![Squid V1](https://user-images.githubusercontent.com/29917546/98601269-76bfc080-22e7-11eb-83bc-6839af406a2a.jpg)
 
 Wi-Fi & Bluetooth PWM Controller
