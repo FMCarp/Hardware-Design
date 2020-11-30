@@ -1,4 +1,4 @@
-# Hardware PCB **Portfolio**
+# Hardware PCB Portfolio
 
 Some of my hardware design projects. <br />
 All the boards are designed by me (schematics + PCB layout) and manually assembled using soldering stations and hot air tools.<br />
@@ -7,7 +7,8 @@ I also created firmware (C, C++, ASM) for most of these boards, as they contain 
 #
 #
 
-UHF RFID & Mechatronics Controller
+
+**UHF RFID & Mechatronics Controller**
 ![RPDT V2 PCB TOP](https://user-images.githubusercontent.com/29917546/98597893-59d4be80-22e2-11eb-9a5f-e76e3f7bc32c.jpg) <br /> <br /> <br /> <br /> <br />
 
 Wi-Fi Sensors Telemetry
